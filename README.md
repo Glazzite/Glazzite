@@ -1,4 +1,12 @@
-## Hi there 👋
+# I'm broke. 🤍
+
+Dev + Content Creator + Student + Freelancer
+
+all bare minimum btw 🥀
+
+## A bit of me? 🤔
+
+
 
 <!--
 **Glazzite/Glazzite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
