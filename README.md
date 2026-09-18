@@ -39,49 +39,56 @@
 
 <div align="center">─────</div>
 
-<h3 align="center">
-a bit of me? 🤔
-</h3>
 
-<body>
-  <p align="center">
-  An idiot who tries to develop so many things that it starts developing his own fear in life. 
-  </p>
-  
-  <div align="center">─────</div>
-  <div> ㅤ </div>
+# a bit of me? 🤔
 
-  <p align="center">
-  Anyways, I'm building my portfolio up, and as the above statement states, I kinda develop a few too many things in my life. So, it's not easy to pull up a '20 years of Experience' type portfolio when your not even 20 🥀.  Well who cares? Doing it for fun after all.
-  </p>
-</body>
+An idiot who tries to develop so many things that it starts developing his own fear in life. 
 
-<div align="center">─────</div>
+Anyways, I'm building my portfolio up, and as the above statement states, I kinda develop a few too many things in my life. So, it's not easy to pull up a '20 years of Experience' type portfolio when your not even 20 🥀.  Well who cares? Doing it for fun after all.
 
-<h3 align="center">
-tech stack 🧪
-</h3>
 
-<body>
+# skillset 🧪
 
-<h4 align="center">
-OS Level :
-</h4>
+### Windows
+#### Experience :
+- 4+ years of optimizing/modifiying
+- almost know windows in-&-out
 
-<b>
-<ul align="center">
-  <li>Windows : 4+ Years of Optimizing/Modifiying</li>
-  <li>Linux : Just Started.</li>
-</ul>
-</b>
+#### Projects :
+##### Essence/Xenon
+- my own custom windows iso (essence) & ame playbook (xenon)
+- obtained 8gb windows install + 600MB RAM + 39 processes used idle on VM
+- currently **not-in-development** due to legal risk
 
-<p align="center">
+#### Preference :
+- microslop sucks.
+- preferred windows : win10 22H2 (debloated + optimized)
+
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=windows&theme=light" />
 </a>
-</p>
+
+### Linux
+#### Experience :
+- Just Started. 2026. yeah.
+
+#### Projects :
+##### ams.sh - Absolute Minecraft Strap
+- script that automatically sets up a Minecraft server using bash
+- loader support (i.e vanilla, fabric, paper)
+- multi-version support
+- simple, light, one-time
+- ams.sh v1.0 is publicly available.
+
+#### Preference :
+- preferred server distro : ubuntu server lts
+- preferred usable distro : {tbd}
+- preferred desktop enviro : kde plasma
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux&theme=light" />
+</a>
     
-</body>
 
 
 <!--
