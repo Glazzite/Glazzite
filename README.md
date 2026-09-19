@@ -40,55 +40,65 @@
 <div align="center">─────</div>
 
 
-# a bit of me? 🤔
+<h3 align="center">a bit of me? 🤔</h3>
 
-An idiot who tries to develop so many things that it starts developing his own fear in life. 
+<p align="center">
+  An idiot who tries to develop so many things that it starts developing his own fear in life.
+</p>
 
-Anyways, I'm building my portfolio up, and as the above statement states, I kinda develop a few too many things in my life. So, it's not easy to pull up a '20 years of Experience' type portfolio when your not even 20 🥀.  Well who cares? Doing it for fun after all.
+<div align="center">─────</div>
 
+<h3 align="center">skillset 🧪</h3>
 
-# skillset 🧪
+<h4 align="center">Windows</h4>
+<h5 align="center">Experience :</h5>
+<p align="center">4+ years of optimizing/modifiying</p>
+<p align="center">knows windows at minimum 85%</p>
 
-### Windows
-#### Experience :
-- 4+ years of optimizing/modifiying
-- almost know windows in-&-out
+<h5 align="center">Projects :</h5>
+<h6 align="center">Essence/Xenon</h6>
+<p align="center">my own custom windows iso (essence) & ame playbook (xenon)</p>
+<p align="center">8.1gb windows install + 600MB RAM + 39 processes used idle on VM</p>
+<p align="center">currently not-in-development due to legal risk</p>
 
-#### Projects :
-##### Essence/Xenon
-- my own custom windows iso (essence) & ame playbook (xenon)
-- obtained 8gb windows install + 600MB RAM + 39 processes used idle on VM
-- currently **not-in-development** due to legal risk
+<h5 align="center">Thoughts? :</h5>
+<p align="center">microslop sucks.</p>
+<p align="center">preferred windows : win10 22H2 (debloated + optimized)</p>
 
-#### Preference :
-- microslop sucks.
-- preferred windows : win10 22H2 (debloated + optimized)
-
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=windows&theme=light" />
 </a>
+</p>
 
-### Linux
-#### Experience :
-- Just Started. 2026. yeah.
+<div align="center">─────</div>
 
-#### Projects :
-##### ams.sh - Absolute Minecraft Strap
-- script that automatically sets up a Minecraft server using bash
-- loader support (i.e vanilla, fabric, paper)
-- multi-version support
-- simple, light, one-time
-- ams.sh v1.0 is publicly available.
+<h4 align="center">Linux</h4>
+<h5 align="center">Experience :</h5>
+<p align="center">Just Started. 2026. yeah.</p>
 
-#### Preference :
-- preferred server distro : ubuntu server lts
-- preferred usable distro : {tbd}
-- preferred desktop enviro : kde plasma
+<h5 align="center">Projects :</h5>
+<h6 align="center">ams.sh - Absolute Minecraft Strap</h6>
+<p align="center">script that automatically sets up a Minecraft server using bash</p>
+<p align="center">loader support (i.e vanilla, fabric, paper)</p>
+<p align="center">multi-version support</p>
+<p align="center">simple, light, one-time</p>
+<p align="center">ams.sh v1.0 is publicly available.</p>
 
+<h5 align="center">Thoughts? :</h5>
+<p align="center">preferred server distro : ubuntu server lts</p>
+<p align="center">preferred usable distro : tbd</p>
+<p align="center">preferred desktop enviro : kde plasma</p>
+
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux&theme=light" />
 </a>
-    
+</p>
+
+<div align="center">─────</div>
+
+
 
 
 <!--
