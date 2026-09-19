@@ -51,7 +51,7 @@
 <h3 align="center">skillset 🧪</h3>
 
 <h4 align="center">Windows</h4>
-<h5 align="center">Experience :</h5>
+<b><h5 align="center">Experience :</h5></b>
 <p align="center">4+ years of optimizing/modifiying</p>
 <p align="center">knows windows at minimum 85%</p>
 
