@@ -27,8 +27,6 @@
 
 <div align="center">
 
-<base target="_blank">
-
 <div>─────</div>
 
   <h3>
@@ -50,9 +48,9 @@
 <div>─────</div>
 
 <h3>socials ✌</h3>
-<a href="https://youtube.com/@Glazzite" target="_blank" rel="noopener noreferrer"><img src="icons/yt.svg" width=64 height=64></a>
-<img src="icons/discord.svg" width=64 height=64>
-<img src="icons/insta.svg" width=64 height=64>
+<a href="https://youtube.com/@Glazzite"><img src="icons/yt.svg" width=64 height=64></a>
+<a href="https://discord.gg/UF2qeFQ86b"><img src="icons/discord.svg" width=64 height=64></a>
+<a href="https://instagram.com/itsglazzite"><img src="icons/insta.svg" width=64 height=64></a>
 
 <div>ㅤ</div>
 <div>─────</div>
