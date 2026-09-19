@@ -86,6 +86,7 @@
 <p align="center">ams.sh v1.0 is publicly available.</p>
 
 <h4 align="center">Thoughts? :</h4>
+<p align="center">linux is so goated, i could cry about it.</p>
 <p align="center">preferred server distro : ubuntu server lts</p>
 <p align="center">preferred usable distro : tbd</p>
 <p align="center">preferred desktop enviro : kde plasma</p>
