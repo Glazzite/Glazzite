@@ -49,25 +49,34 @@
 
 <h3>socials ✌</h3>
 
-<img src="icons/yt.svg">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=discord,instagram&theme=light" />
-</a>
+<img src="icons/yt.svg" width=64 height=64>
+<img src="icons/discord.svg" width=64 height=64>
+<img src="icons/insta.svg" width=64 height=64>
 
-
+<div>ㅤ</div>
 <div>─────</div>
 
 <h3>skillset 🧪</h3>
 
-<h4>OS Level 💻 :</h4>
-
-<p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
-</a>
-</p>
-
 <div>─────</div>
+
+<h4>OS level 💻</h4>
+
+<img src="icons/win.svg" width=64 height=64>
+<img src="icons/linux.svg" width=64 height=64>
+
+<div>ㅤ</div>
+<div>─────</div>
+
+<h4>languages 🗣️</h4>
+
+<img src="icons/bash.svg" width=64 height=64>
+<img src="icons/python.svg" width=64 height=64>
+<img src="icons/powershell.svg" width=64 height=64>
+
+<div>ㅤ</div>
+<div>─────</div>
+
 
 
 </div>
