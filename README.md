@@ -73,6 +73,7 @@
 <img src="icons/bash.svg" width=64 height=64>
 <img src="icons/python.svg" width=64 height=64>
 <img src="icons/powershell.svg" width=64 height=64>
+<img src="icons/html.svg" width=64 height=64>
 
 <div>ㅤ</div>
 <div>─────</div>
