@@ -27,6 +27,8 @@
 
 <div align="center">
 
+<base target="_blank">
+
 <div>─────</div>
 
   <h3>
