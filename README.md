@@ -56,7 +56,7 @@
 <p align="center">knows windows at minimum 85%</p>
 
 <h4 align="center">Projects :</h4>
-<h5 align="center">Essence/Xenon</h5>
+<h6 align="center">Essence/Xenon</h6>
 <p align="center">my own custom windows iso (essence) & ame playbook (xenon)</p>
 <p align="center">8.1gb windows install + 600MB RAM + 39 processes used idle on VM</p>
 <p align="center">currently not-in-development due to legal risk</p>
