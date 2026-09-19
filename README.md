@@ -48,7 +48,7 @@
 <div>─────</div>
 
 <h3>socials ✌</h3>
-<a href="https://youtube.com/@Glazzite" target="blank"><img src="icons/yt.svg" width=64 height=64></a>
+<a href="https://youtube.com/@Glazzite" target="_blank" rel="noopener noreferrer"><img src="icons/yt.svg" width=64 height=64></a>
 <img src="icons/discord.svg" width=64 height=64>
 <img src="icons/insta.svg" width=64 height=64>
 
