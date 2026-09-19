@@ -25,42 +25,48 @@
     bare minimum btw 🥀
 </p>
 
-<div align="center">─────</div>
+<div align="center">
 
+<div>─────</div>
 
-<body>
-  <h3 align="center">
+  <h3>
     Name's Glaz. "Glazzite"
   </h3>
-  <p align="center">
+  <p>
     I really shouldn't be here, but couldn't help myself.
   </p>
-</body>
-
-<div align="center">─────</div>
 
 
-<h3 align="center">a bit of me? 🤔</h3>
+<div>─────</div>
 
-<p align="center">
+<h3>a bit of me? 🤔</h3>
+
+<p>
   An idiot who tries to develop so many things that it starts developing his own fear in life.
 </p>
 
-<div align="center">─────</div>
+<div>─────</div>
 
-<h3 align="center">skillset 🧪</h3>
+<h3>socials ✌</h3>
 
-<h4 align="center">OS Level :</h4>
 
-<p align="center">
+
+<div>─────</div>
+
+<h3>skillset 🧪</h3>
+
+<h4>OS Level 💻 :</h4>
+
+<p>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </a>
 </p>
 
-<div align="center">─────</div>
+<div>─────</div>
 
-<h3 align="center">
+
+</div>
 
 
 <!--
