@@ -48,8 +48,7 @@
 <div>─────</div>
 
 <h3>socials ✌</h3>
-
-<img src="icons/yt.svg" width=64 height=64>
+<a href="https://youtube.com/@Glazzite" target="blank"><img src="icons/yt.svg" width=64 height=64></a>
 <img src="icons/discord.svg" width=64 height=64>
 <img src="icons/insta.svg" width=64 height=64>
 
@@ -64,6 +63,7 @@
 
 <img src="icons/win.svg" width=64 height=64>
 <img src="icons/linux.svg" width=64 height=64>
+<img src="icons/android.svg" width=64 height=64>
 
 <div>ㅤ</div>
 <div>─────</div>
@@ -78,7 +78,13 @@
 <div>ㅤ</div>
 <div>─────</div>
 
+<h4>software ⚙️</h4>
 
+<img src="icons/davinchi.svg" width=64 height=64>
+<img src="icons/audacity.svg" width=64 height=64>
+<img src="icons/obs.svg" width=64 height=64>
+
+<img src="icons/inkscape.svg" width=64 height=64>
 
 </div>
 
