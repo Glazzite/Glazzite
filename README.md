@@ -49,6 +49,10 @@
 
 <h3>socials ✌</h3>
 
+<img src="icons/yt.svg">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=discord,instagram&theme=light" />
+</a>
 
 
 <div>─────</div>
