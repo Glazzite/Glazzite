@@ -73,11 +73,11 @@
 
 <div align="center">─────</div>
 
-<h4 align="center">Linux</h4>
-<h5 align="center">Experience :</h5>
+<h3 align="center">Linux</h3>
+<h4 align="center">Experience :</h4>
 <p align="center">Just Started. 2026. yeah.</p>
 
-<h5 align="center">Projects :</h5>
+<h4 align="center">Projects :</h4>
 <h6 align="center">ams.sh - Absolute Minecraft Strap</h6>
 <p align="center">script that automatically sets up a Minecraft server using bash</p>
 <p align="center">loader support (i.e vanilla, fabric, paper)</p>
@@ -85,7 +85,7 @@
 <p align="center">simple, light, one-time</p>
 <p align="center">ams.sh v1.0 is publicly available.</p>
 
-<h5 align="center">Thoughts? :</h5>
+<h4 align="center">Thoughts? :</h4>
 <p align="center">preferred server distro : ubuntu server lts</p>
 <p align="center">preferred usable distro : tbd</p>
 <p align="center">preferred desktop enviro : kde plasma</p>
@@ -98,7 +98,7 @@
 
 <div align="center">─────</div>
 
-<h4 align="center">
+<h3 align="center">
 
 
 <!--
