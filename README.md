@@ -55,13 +55,13 @@
 <p align="center">4+ years of optimizing/modifiying</p>
 <p align="center">knows windows at minimum 85%</p>
 
-<h5 align="center">Projects :</h5>
-<h6 align="center">Essence/Xenon</h6>
+<h4 align="center">Projects :</h4>
+<h5 align="center">Essence/Xenon</h5>
 <p align="center">my own custom windows iso (essence) & ame playbook (xenon)</p>
 <p align="center">8.1gb windows install + 600MB RAM + 39 processes used idle on VM</p>
 <p align="center">currently not-in-development due to legal risk</p>
 
-<h5 align="center">Thoughts? :</h5>
+<h4 align="center">Thoughts? :</h4>
 <p align="center">microslop sucks.</p>
 <p align="center">preferred windows : win10 22H2 (debloated + optimized)</p>
 
