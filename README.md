@@ -50,50 +50,11 @@
 
 <h3 align="center">skillset 🧪</h3>
 
-<h3 align="center">Windows</h3>
-<h4 align="center">Experience :</h4>
-<p align="center">4+ years of optimizing/modifiying</p>
-<p align="center">knows windows at minimum 85%</p>
-
-<h4 align="center">Projects :</h4>
-<h6 align="center">Essence/Xenon</h6>
-<p align="center">my own custom windows iso (essence) & ame playbook (xenon)</p>
-<p align="center">8.1gb windows install + 600MB RAM + 39 processes used idle on VM</p>
-<p align="center">currently not-in-development due to legal risk</p>
-
-<h4 align="center">Thoughts? :</h4>
-<p align="center">microslop sucks.</p>
-<p align="center">preferred windows : win10 22H2 (debloated + optimized)</p>
+<h4 align="center">OS Level :</h4>
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=windows&theme=light" />
-</a>
-</p>
-
-<div align="center">─────</div>
-
-<h3 align="center">Linux</h3>
-<h4 align="center">Experience :</h4>
-<p align="center">Just Started. 2026. yeah.</p>
-
-<h4 align="center">Projects :</h4>
-<h6 align="center">ams.sh - Absolute Minecraft Strap</h6>
-<p align="center">script that automatically sets up a Minecraft server using bash</p>
-<p align="center">loader support (i.e vanilla, fabric, paper)</p>
-<p align="center">multi-version support</p>
-<p align="center">simple, light, one-time</p>
-<p align="center">ams.sh v1.0 is publicly available.</p>
-
-<h4 align="center">Thoughts? :</h4>
-<p align="center">linux is so goated, i could cry about it.</p>
-<p align="center">preferred server distro : ubuntu server lts</p>
-<p align="center">preferred usable distro : tbd</p>
-<p align="center">preferred desktop enviro : kde plasma</p>
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </a>
 </p>
 
